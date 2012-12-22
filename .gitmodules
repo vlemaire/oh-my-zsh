@@ -1,0 +1,6 @@
+[submodule "custom/plugins/drush_zsh_completion"]
+	path = custom/plugins/drush_zsh_completion
+	url = https://github.com/webflo/drush_zsh_completion.git
+[submodule "custom/plugins/zsh-syntax-highlighting"]
+	path = custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
