@@ -30,6 +30,6 @@ COMPLETION_WAITING_DOTS="true"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(autojump brew cp extract git-extras git-remote-branch git history osx rsync sublime svn symfony symfony2)
 
-source $ZSH/oh-my-zsh.sh
-
 export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/share/npm/bin:/usr/local/opt/php53/bin:/usr/local/share/python:$PATH"
+
+source $ZSH/oh-my-zsh.sh
