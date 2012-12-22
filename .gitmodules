@@ -1,3 +1,6 @@
 [submodule "custom/plugins/zsh-syntax-highlighting"]
 	path = custom/plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "custom/plugins/drush"]
+	path = custom/plugins/drush
+	url = https://github.com/kid-icarus/oh-my-drush.git
