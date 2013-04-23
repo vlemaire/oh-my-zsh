@@ -4,3 +4,6 @@
 [submodule "custom/plugins/drush"]
 	path = custom/plugins/drush
 	url = https://github.com/kid-icarus/oh-my-drush.git
+[submodule "custom/plugins/grunt"]
+	path = custom/plugins/grunt
+	url = https://github.com/clauswitt/zsh-grunt-plugin.git
